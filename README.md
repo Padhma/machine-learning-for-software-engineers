@@ -16,7 +16,7 @@ Inspired by [Coding Interview University](https://github.com/jwasham/coding-inte
 
 # Plan to become a machine learning engineer
 
-## Table of Contents
+## Table of Contents - General
 
 - [How to use it](#how-to-use-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
@@ -24,25 +24,28 @@ Inspired by [Coding Interview University](https://github.com/jwasham/coding-inte
 - [Prerequisite Knowledge](#prerequisite-knowledge)
 - [The Daily Plan](#the-daily-plan)
 - [Motivation](#motivation)
+
+## Table of Contents - Machine Learning Plan
+
 - [Machine learning overview](#machine-learning-overview)
+- [MOOC](#mooc)
+- [Beginner Books](#beginner-books)
+- [Practical Books](#practical-books)
 - [Machine learning mastery](#machine-learning-mastery)
 - [Machine learning is fun](#machine-learning-is-fun)
+- [Video Series](#video-series)
+- [Resources](#resources)
+- [Podcasts](#podcasts)
+- [Interview Questions](#interview-questions)
+- [Communities](#communities)
 - [Inky Machine Learning](#inky-machine-learning)
 - [Machine Learning: An In-Depth Guide](#machine-learning-an-in-depth-guide)
 - [Stories and experiences](#stories-and-experiences)
 - [Machine Learning Algorithms](#machine-learning-algorithms)
-- [Beginner Books](#beginner-books)
-- [Practical Books](#practical-books)
 - [Kaggle knowledge competitions](#kaggle-knowledge-competitions)
-- [Video Series](#video-series)
-- [MOOC](#mooc)
-- [Resources](#resources)
 - [Becoming an Open Source Contributor](#becoming-an-open-source-contributor)
 - [Games](#games)
-- [Podcasts](#podcasts)
-- [Communities](#communities)
 - [Conferences](#conferences)
-- [Interview Questions](#interview-questions)
 
 ---
 
